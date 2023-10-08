@@ -10,7 +10,7 @@ export default function Home() {
         <p className="my-16 text-center text-2xl">
            Service to others is the rent you pay here.{" "}
           <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
-          <div className="text">IN $LUV WE TRUST</div>
+          IN LUV WE TRUST
           </code>
         </p>
         <div className="md:flex-unset flex max-w-3xl flex-wrap items-center justify-center">
