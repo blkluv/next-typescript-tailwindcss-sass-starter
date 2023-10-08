@@ -5,52 +5,52 @@ export default function Home() {
     <div className="px-2 text-white">
       <main className="flex min-h-screen flex-1 flex-col items-center justify-center py-2">
         <h1 className="m-0 bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-center text-8xl font-extrabold text-transparent hover:cursor-pointer">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://luvnft.com">LUV NFT</a>
         </h1>
         <p className="my-16 text-center text-2xl">
-          Get started by editing{" "}
+           Welcome to the Purpose Economy Blueprint. Service to others is the rent you pay for your room here.{" "}
           <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
-            pages/index.js
+            "IN LUV WE TRUST"
           </code>
         </p>
         <div className="md:flex-unset flex max-w-3xl flex-wrap items-center justify-center">
           <a
-            href="https://nextjs.org/docs"
+            href="https://blkluv.org"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">Documentation &rarr;</h2>
+            <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-              Find in-depth information about Next.js features and API.
+               A tokenopoly game played on top of social meida, Complete a job-request to earn free $LUV.
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn"
+            href="https://arvrtise.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">Learn &rarr;</h2>
+            <h2 className="mb-8 text-2xl">Arvrtise &rarr;</h2>
             <p className="m-0 text-xl">
-              Learn about Next.js in an interactive course with quizzes!
+              A tokenize arvrtising agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
             </p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://tip.luvnft.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">Examples &rarr;</h2>
+            <h2 className="mb-8 text-2xl">$TIP Drill &rarr;</h2>
             <p className="m-0 text-xl">
-              Discover and deploy boilerplate example Next.js projects.
+              No Mo Cap! Tip anyone in the world with a link attached to a bag of money. Pay zero fees!
             </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://travel.luvnft.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">Deploy &rarr;</h2>
+            <h2 className="mb-8 text-2xl">Travel (Soon) &rarr;</h2>
             <p className="m-0 text-xl">
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Pay rent, rent a car or take a vacation with your $LUV money.
             </p>
           </a>
         </div>
