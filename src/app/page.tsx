@@ -8,7 +8,7 @@ export default function Home() {
           LUV NFT <a href="https://luvnft.com">5D INTERNET</a>
         </h1>
         <p className="my-16 text-center text-2xl">
-           Service to others is the rent you pay for your room here.{" "}
+           Service to others is the rent you pay here.{" "}
           <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
           <div className="text">IN $LUV WE TRUST</div>
           </code>
