@@ -10,7 +10,7 @@ export default function Home() {
         <p className="my-16 text-center text-2xl">
            Welcome to the Purpose Economy Blueprint. Service to others is the rent you pay for your room here.{" "}
           <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
-            "IN LUV WE TRUST"
+          <div className="text">IN $LUV WE TRUST</div>
           </code>
         </p>
         <div className="md:flex-unset flex max-w-3xl flex-wrap items-center justify-center">
@@ -20,7 +20,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-               A tokenopoly game played on top of social meida, Complete a job-request to earn free $LUV.
+               A tokenopoly game played on top of social meida, Complete a live jobrequest to earn free $LUV and social LUV.
             </p>
           </a>
 
