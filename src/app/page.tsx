@@ -5,7 +5,7 @@ export default function Home() {
     <div className="px-2 text-white">
       <main className="flex min-h-screen flex-1 flex-col items-center justify-center py-2">
         <h1 className="m-0 bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-center text-8xl font-extrabold text-transparent hover:cursor-pointer">
-          LUV NFT <a href="https://luvnft.com">5D INTERNET</a>
+          LUV NFT <a href="https://luvnft.com">IS WEB5</a>
         </h1>
         <p className="my-16 text-center text-2xl">
         Service to others is the rent you pay here.{" "}
@@ -32,7 +32,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">Arvrtise &rarr;</h2>
             <p className="m-0 text-xl">
-              A tokenize arvrtising agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
+              A metaverse marketing agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
             </p>
           </a>
 
