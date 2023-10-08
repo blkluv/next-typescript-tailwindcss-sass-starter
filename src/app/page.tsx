@@ -5,10 +5,10 @@ export default function Home() {
     <div className="px-2 text-white">
       <main className="flex min-h-screen flex-1 flex-col items-center justify-center py-2">
         <h1 className="m-0 bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-center text-8xl font-extrabold text-transparent hover:cursor-pointer">
-          Welcome to <a href="https://luvnft.com">LUV NFT</a>
+          LUV NFT <a href="https://luvnft.com">5D INTERNET</a>
         </h1>
         <p className="my-16 text-center text-2xl">
-           Welcome to the Purpose Economy Blueprint. Service to others is the rent you pay for your room here.{" "}
+           Service to others is the rent you pay for your room here.{" "}
           <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
           <div className="text">IN $LUV WE TRUST</div>
           </code>
@@ -20,7 +20,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-               A tokenopoly game played on top of social meida, Complete a live jobrequest to earn free $LUV and social LUV.
+               A tokenopoly game played on top of social meida, Complete a live jobrequest to earn free $LUV.
             </p>
           </a>
 
@@ -50,14 +50,14 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">Travel (Soon) &rarr;</h2>
             <p className="m-0 text-xl">
-              Pay rent, rent a car or take a vacation with your $LUV money.
+               $LUV is the affordable housing, car rental and vacation solution for those with a heart.
             </p>
           </a>
         </div>
       </main>
       <footer className="flex h-[100px] w-full items-center justify-center border">
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://blkluv.org"
           className="flex items-center justify-center"
           target="_blank"
           rel="noopener noreferrer"
