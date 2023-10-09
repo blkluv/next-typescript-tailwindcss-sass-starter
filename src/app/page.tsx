@@ -22,7 +22,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-               A tokenopoly game played on top of social meida, Complete a live jobrequest to earn free $LUV.
+               A tokenopoly game played on top of social meida, Complete a job request to earn free $LUV.
             </p>
           </a>
 
