@@ -47,7 +47,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://travel.luvnft.com"
+            href="https://luvnft.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
             <h2 className="mb-8 text-2xl">Travel (Soon) &rarr;</h2>
