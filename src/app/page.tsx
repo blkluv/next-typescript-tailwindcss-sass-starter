@@ -9,9 +9,9 @@ export default function Home() {
         </h1>
         <p className="my-16 text-center text-2xl">
         Service to others is the rent you pay here.{" "}
-        <a href="https://social.luvnft.com/">
+        <a href="https://blkluv.org">
         <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
-        SOCIAL
+        BLK LUV org
         </code>
         </a>
         </p>
@@ -22,7 +22,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-               A tokenopoly game played on top of social meida, Complete a job request to earn free $LUV.
+               A Web5 Social Media platform where $LUV is the new like, exchange $LUV for local services and products.
             </p>
           </a>
 
@@ -32,7 +32,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">Arvrtise &rarr;</h2>
             <p className="m-0 text-xl">
-              A metaverse marketing agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
+              A blockchain marketing agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
             </p>
           </a>
 
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">$TIP Drill &rarr;</h2>
             <p className="m-0 text-xl">
-              No Mo Cap! Tip anyone in the world with a link attached to a bag of money. Pay zero fees!
+              Tip anyone $SOL in the world with a link attached to a bag of money. Pay zero fees! No cap!
             </p>
           </a>
 
