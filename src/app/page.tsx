@@ -8,7 +8,7 @@ export default function Home() {
           LUV NFT <a href="https://luvnft.com">IS WEB5</a>
         </h1>
         <p className="my-16 text-center text-2xl">
-        Service to others is the rent you pay here.{" "}
+        Everything is free here when you unite and exchange $LUV with each other.{" "}
         <a href="https://blkluv.org">
         <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
         BLK LUV org
@@ -22,7 +22,27 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
             <p className="m-0 text-xl">
-               A Web5 Social Media platform where $LUV is the new like, exchange $LUV for local services and products.
+               The first live game played on social media. Earn $LUV the new 'Like' Live on @luvnft. Tip with tip.luvnft.com. IN LUV WE TRUST
+            </p>
+          </a>
+
+          <a
+            href="https://discord.com/channels/1164180431181201438/shop"
+            className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
+          >
+            <h2 className="mb-8 text-2xl">ADUBNB &rarr;</h2>
+            <p className="m-0 text-xl">
+              ADUBNB offers an affordable housing solution, providing rental, sales, and maintenance services for ADU homes.
+            </p>
+          </a>
+
+          <a
+            href="https://cre.luvnft.com"
+            className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
+          >
+            <h2 className="mb-8 text-2xl">Billionaire CRE Group &rarr;</h2>
+            <p className="m-0 text-xl">
+              Join an elite members only group of CRE brokers, investors and service providers. Verified 1M+ AUM NFT id badges.
             </p>
           </a>
 
@@ -32,27 +52,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">Arvrtise &rarr;</h2>
             <p className="m-0 text-xl">
-              A blockchain marketing agency that accepts $LUV as a form of payment. Use our zero fee merchant POS.
-            </p>
-          </a>
-
-          <a
-            href="https://tip.luvnft.com"
-            className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
-          >
-            <h2 className="mb-8 text-2xl">$TIP Drill &rarr;</h2>
-            <p className="m-0 text-xl">
-              Tip anyone $SOL in the world with a link attached to a bag of money. Pay zero fees! No cap!
-            </p>
-          </a>
-
-          <a
-            href="https://luvnft.com"
-            className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
-          >
-            <h2 className="mb-8 text-2xl">Travel (Soon) &rarr;</h2>
-            <p className="m-0 text-xl">
-               $LUV is the affordable housing, car rental and vacation solution for those with a heart.
+               A blockchain marketing agency with an Ateam of PPV channels of professionals, brands and masterminds. 
             </p>
           </a>
         </div>
