@@ -5,10 +5,10 @@ export default function Home() {
     <div className="px-2 text-white">
       <main className="flex min-h-screen flex-1 flex-col items-center justify-center py-2">
         <h1 className="m-0 bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-center text-8xl font-extrabold text-transparent hover:cursor-pointer">
-          LUV NFT <a href="https://luvnft.com">IS WEB5</a>
+          LUV NFT <a href="https://luvnft.com"></a>
         </h1>
         <p className="my-16 text-center text-2xl">
-        Everything is free here when you unite and exchange $LUV with each other.{" "}
+        Web5 crypto hedge fund. Invest into the purpose economy. "IN LUV WE TRUST"{" "}
         <a href="https://blkluv.org">
         <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
         BLK LUV org
@@ -17,12 +17,12 @@ export default function Home() {
         </p>
         <div className="md:flex-unset flex max-w-3xl flex-wrap items-center justify-center">
           <a
-            href="https://blkluv.org"
+            href="https://nftv.luvnft.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">LUV Games &rarr;</h2>
+            <h2 className="mb-8 text-2xl">NFTV &rarr;</h2>
             <p className="m-0 text-xl">
-               The first live game played on social media. Earn $LUV the new 'Like' Live on @luvnft. Tip with tip.luvnft.com. IN LUV WE TRUST
+               Subscibe to the Netflix of blockchain entertainment to access premium social media content.
             </p>
           </a>
 
@@ -30,17 +30,17 @@ export default function Home() {
             href="https://discord.com/channels/1164180431181201438/shop"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">ADUBNB &rarr;</h2>
+            <h2 className="mb-8 text-2xl">TIP &rarr;</h2>
             <p className="m-0 text-xl">
-              ADUBNB offers an affordable housing solution, providing rental, sales, and maintenance services for ADU homes.
+              Send anyone in the world a crypto tip with a link they accept to access a wallet full of money.
             </p>
           </a>
 
           <a
-            href="https://cre.luvnft.com"
+            href="https://creclub.arvrtise.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">Billionaire CRE Group &rarr;</h2>
+            <h2 className="mb-8 text-2xl">CRE &rarr;</h2>
             <p className="m-0 text-xl">
               Join an elite members only group of CRE brokers, investors and service providers. Verified 1M+ AUM NFT id badges.
             </p>
