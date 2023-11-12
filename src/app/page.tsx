@@ -8,7 +8,7 @@ export default function Home() {
           LUV NFT <a href="https://luvnft.com"></a>
         </h1>
         <p className="my-16 text-center text-2xl">
-        Web5 crypto hedge fund. Invest into the purpose economy. "IN LUV WE TRUST"{" "}
+        Web5 crypto hedge fund. Invest into the purpose economy.IN LUV WE TRUST{" "}
         <a href="https://blkluv.org">
         <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
         BLK LUV org
