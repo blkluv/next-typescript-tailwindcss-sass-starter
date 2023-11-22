@@ -3,8 +3,8 @@
   "description": "Use TypeScript, TailwindCSS & Sass to quick start your new Next.js app!!",
   "version": "1.0.0",
   "author": {
-    "name": "Mike van Peeren",
-    "url": "https://github.com/MikevPeeren"
+    "name": "LUV NFT",
+    "url": "https://luvnft.com"
   },
   "license": "MIT",
   "keywords": [
@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:MikevPeeren/next-typescript-tailwindcss-sass-starter.git"
+    "url": "git@github.com:blkluv/next-typescript-tailwindcss-sass-starter.git"
   },
   "scripts": {
     "dev": "next dev",

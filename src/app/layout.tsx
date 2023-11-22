@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.className}>
       <head>
-        <title>Mike van Peeren</title>
+        <title>LUV NFT| WEB5</title>
       </head>
       <body className="bg-black">
         <div className="mx-auto max-w-screen-lg px-6 py-12">
