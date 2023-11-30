@@ -40,7 +40,7 @@ export default function Home() {
             href="https://creclub.arvrtise.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">CRE CLUB &rarr;</h2>
+            <h2 className="mb-8 text-2xl">🏢 CRE CLUB &rarr;</h2>
             <p className="m-0 text-xl">
             Commercial real estate brokers, investor and service providers.
             </p>
