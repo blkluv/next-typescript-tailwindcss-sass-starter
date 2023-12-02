@@ -22,17 +22,17 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">PPV &rarr;</h2>
             <p className="m-0 text-xl">
-            <a href="https://arvrtise.com" target="_blank">📺 NFTV </a> Creators earn 10x more for PPV social media content.
+            📺 NFTV is the first social media PPV network that pays creators 10x more for their content compared to any other platform.
             </p>
           </a>
 
           <a
-            href="https://discord.com/channels/1164180431181201438/shop"
+            href="https://pay.luvnft.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
             <h2 className="mb-8 text-2xl">PAY &rarr;</h2>
             <p className="m-0 text-xl">
-            <a href="https://pay.luvnft.com" target="_blank">✨ PAY </a> Send $MATIC (Testnet) any where in the world with your email address.
+            ✨ PAY anyone in $MATIC (Testnet) any where in the world in less than 4 seconds with a email address and zero fees.
             </p>
           </a>
 
@@ -40,9 +40,9 @@ export default function Home() {
             href="https://creclub.arvrtise.com"
             className="m-4 min-h-[200px] max-w-xs rounded-md border p-6 text-left no-underline transition-colors duration-700 ease-in-out hover:border-indigo-500 hover:text-indigo-300"
           >
-            <h2 className="mb-8 text-2xl">🏢 CRE CLUB &rarr;</h2>
+            <h2 className="mb-8 text-2xl">CRE CLUB &rarr;</h2>
             <p className="m-0 text-xl">
-            Commercial real estate brokers, investor and service providers.
+            🏢 CRE Club is a social media platgform of elite commercial real estate brokers, investor and service providers.
             </p>
           </a>
           <a
@@ -51,7 +51,7 @@ export default function Home() {
           >
             <h2 className="mb-8 text-2xl">MARKETING &rarr;</h2>
             <p className="m-0 text-xl">
-             🅰️ Arvrtise nex-gen Web2-Web5 marketing campaigns.
+             🅰️ Arvrtise is a next-gen Web2-to-Web5 marketing agency that assists brands and creators in mastering Web5 advertising
             </p>
           </a>
         </div>
