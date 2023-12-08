@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
         <p className="my-16 text-center text-2xl">
         Web5 purpose economy powered by $LUV. IN LUV WE TRUST{" "}
-        <a href="https://linktr.ee/luvnft">
+        <a href="https://y.luvnft.com">
         <code className="rounded-2xl bg-gray-100 p-3 text-base text-black">
         MORE
         </code>
